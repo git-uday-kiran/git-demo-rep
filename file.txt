@@ -1,2 +1,3 @@
 Hello, This is the sample text file
-Here, you can write any texd
+Here, you can write any text
+this is new line
