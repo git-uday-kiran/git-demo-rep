@@ -1,4 +1,1 @@
-Hello, This is the sample text file
-Here, you can write any text
-this is new lin
-Updated in branch1
+Hey there
